@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=htk11235&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htk11235&layout=compact&show_icons=true&hide_border=true" />
 <!--
 **htk11235/htk11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://github-readme-stats.vercel.app/api?username=htk11235&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htk11235&layout=compact&show_icons=true&hide_border=true" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
